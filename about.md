@@ -10,7 +10,7 @@ About Connor
 #### Brian Mao
 About Brian
 
-#### Aditya Matam
+#### The Brown Guy
 About Adi
 
 #### Sam Raisbeck
