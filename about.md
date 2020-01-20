@@ -2,6 +2,16 @@
 layout: default
 title: About
 ---
-# About page
+# The Team
+Insert photo of team
+#### Connor Simmons
+About Connor
 
-About the project
+#### Brian Mao
+About Brian
+
+#### Aditya Matam
+About Adi
+
+#### Sam Raisbeck
+About Sam
