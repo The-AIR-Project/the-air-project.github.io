@@ -7,14 +7,6 @@ title: Home
 #### <i>Automatic Inhalation Resuscitator</i>
 A bag valve mask is a device used by paramedics to provide ventilation for patients who are not breathing adequately. It has been shown there are inconsistent pumping rates between trained medical professionals, and specific volume requirements that are not being met consistently. AIR is a device that is compact, inexpensive, and capable of delivering consistent breaths to a patient through bag valve mask compressions. The objective is to reduce the amount of medical attention and expertise required to operate a bag valve mask.
 
-<img src="/assets/img/bvm_op.JPG" width="280" height="170">
-
-<img src="/assets/img/bvm_op.JPG" width="280" height="170">
-
-<p align="center">
-  <img src="/assets/img/bvm_op.JPG" width="280" height="170" />
-</p>
-
 <figure align="center">
   <img src="/assets/img/bvm_op.JPG" width="280" height="170">
   <figcaption><i>Image source: https://www.jems.com/2014/08/08/dos-and-don-ts-bag-valve-mask-ventilatio/</i></figcaption>
