@@ -5,13 +5,13 @@ title: About
 # The Team
 Insert photo of team
 #### Connor Simmons
-About Connor
+About Connor Simmons
 
 #### Brian Mao
 About Brian Mao
 
 #### Aditya Matam
-About Adi
+About Aditya Matam
 
 #### Sam Raisbeck
-About Sam
+About Sam Raisbeck
