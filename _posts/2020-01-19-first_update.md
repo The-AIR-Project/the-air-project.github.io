@@ -4,4 +4,5 @@ title: First Update
 ---
 # First update
 
-Website is up and running
+Website is up and running.
+Brochure information has been completed.
