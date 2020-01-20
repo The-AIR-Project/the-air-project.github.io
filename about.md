@@ -8,7 +8,7 @@ Insert photo of team
 About Connor
 
 #### Brian Mao
-About Brian
+About Brian Mao
 
 #### Aditya Matam
 About Adi
