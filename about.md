@@ -3,15 +3,19 @@ layout: default
 title: About
 ---
 # The Team
-Insert photo of team
-#### Connor Simmons
+<figure align="center">
+  <img src="/assets/img/team.jpg">
+  <figcaption><i>From the left: Connor, Adi, Brian, Sam</i></figcaption>
+</figure>
+
+### Connor Simmons
 About Connor Simmons
 
-#### Brian Mao
-About Brian Mao
-
-#### Aditya Matam
+### Aditya Matam
 About Aditya Matam
 
-#### Sam Raisbeck
+### Brian Mao
+About Brian Mao
+
+### Sam Raisbeck
 About Sam Raisbeck

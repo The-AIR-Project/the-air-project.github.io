@@ -12,6 +12,8 @@ A bag valve mask is a device used by paramedics to provide ventilation for patie
   <figcaption><i>Image source: https://www.jems.com/2014/08/08/dos-and-don-ts-bag-valve-mask-ventilatio/</i></figcaption>
 </figure>
 
+___
+
 # Background
 When operating a BVM, pumping consistency is a major concern. If the technique is not performed properly throughout the duration of resuscitation, critical complications can occur, including hyperventilation [1]. It has been shown that many health care professionals lack either the skill or concentration to perform BVM resuscitation appropriately. In a study of 174 trained medical professionals, 88% of participants provided too much pressure, 73.8% delivered excessive volumes of air, and 49% performed the technique at too slow of a rate, which can cause hypoventilation [2]. Respiratory therapists at The Hospital for Sick Children revealed these inconsistencies are even more significant in high-stress situations, such as emergency paramedic dispatches.
 
