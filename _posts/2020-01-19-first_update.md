@@ -2,7 +2,7 @@
 layout: default
 title: First Update
 ---
-# First update
+# First Update
 
-Website is up and running.
-Brochure information has been completed.
+- Website is up and running
+- Brochure information has been completed

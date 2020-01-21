@@ -2,6 +2,6 @@
 layout: default
 title: Jan 20 Update
 ---
-# Jan 20 update
+# Jan 20 Update
 
-Brochure information has been released.
+- Brochure information has been released
