@@ -7,10 +7,9 @@ title: Home
 ### <i>Automatic Inhalation Resuscitator</i>
 A bag valve mask is a device used by paramedics to provide ventilation for patients who are not breathing adequately. It has been shown there are inconsistent pumping rates between trained medical professionals, and specific volume requirements that are not being met consistently. AIR is a device that is compact, inexpensive, and capable of delivering consistent breaths to a patient through bag valve mask compressions. The objective is to reduce the amount of medical attention and expertise required to operate a bag valve mask.
 
-<iframe src="https://www.youtube.com/watch?v=0yB5J2ihjF8" width="640" height="480"></iframe>
-<div class="iframe-wrapper">
-  <iframe src="https://www.youtube.com/watch?v=0yB5J2ihjF8" allowfullscreen></iframe>
-</div>
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0yB5J2ihjF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 # Background
 When operating a BVM, pumping consistency is a major concern. If the technique is not performed properly throughout the duration of resuscitation, critical complications can occur, including hyperventilation [1]. It has been shown that many health care professionals lack either the skill or concentration to perform BVM resuscitation appropriately. In a study of 174 trained medical professionals, 88% of participants provided too much pressure, 73.8% delivered excessive volumes of air, and 49% performed the technique at too slow of a rate, which can cause hypoventilation [2]. Respiratory therapists at The Hospital for Sick Children revealed these inconsistencies are even more significant in high-stress situations, such as emergency paramedic dispatches.
