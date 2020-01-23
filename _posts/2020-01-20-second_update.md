@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jan 20 Update
+title: Jan 20 - Capstone Information
 ---
 # Jan 20 - Capstone Information
 

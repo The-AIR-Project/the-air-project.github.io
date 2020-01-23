@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jan 20 First Update
+title: We are Live!
 ---
 # We are Live!
 
