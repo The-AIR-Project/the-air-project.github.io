@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jan 21 Update
+title: Jan 21 - Baylis Medical Award
 ---
 # Jan 21 - Baylis Medical Award
 
