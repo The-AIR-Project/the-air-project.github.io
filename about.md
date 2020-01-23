@@ -12,7 +12,7 @@ title: About
 </figure>
 
 ### Connor Simmons, <span style="font-size:15px; font-color:#ECF0F1;"> *Mechatronics Engineering* </span>
-<img src="/assets/img/Connor_Photo.jpg" style="padding-top:5px; padding-right: 10px" width="180" align="left" /img>
+<img src="/assets/img/Connor_Photo.jpg" style="padding-top:5px; padding-right: 10px" width="180" align="left">
 
 <div style="text-align: justify"> <p> Originally from a small town south of Ottawa, I have always been interested in the latest toy or gadget. This interest has only grown from my time studying to be an Engineer, except the toys have gotten bigger and more expensive. </p>
 
@@ -29,7 +29,7 @@ About Aditya Matam
 About Brian Mao
 
 ### Sam Raisbeck, <span style="font-size:15px; font-color:#ECF0F1;"> *Mechatronics Engineering* </span>
-<img src="/assets/img/Sam_Photo.jpg" style="padding-top:5px; padding-left: 10px" width="180" align="right" /img>
+<img src="/assets/img/Sam_Photo.JPG" style="padding-top:5px; padding-left: 10px" width="180" align="right">
 
 <div style="text-align: justify"> <p> Growing up in Newmarket, Ontario, I first got into technology during a couple grade 11 computer engineering courses. My teacher encouraged self-learning and ambitious projects, and I took off from there. Now, I am happy to say I have been able to apply much of what I've learned in the industry. </p>
 
