@@ -7,7 +7,7 @@ title: About
 </div> <p></p>
 
 <figure align="center">
-  <img src="/assets/img/team.jpg" width="400">
+  <img src="/assets/img/team.jpg" width="750">
   <figcaption><i>From left to right: Connor, Adi, Brian, Sam</i></figcaption>
 </figure>
 
@@ -29,11 +29,11 @@ About Aditya Matam
 About Brian Mao
 
 ### Sam Raisbeck, <span style="font-size:15px; font-color:#ECF0F1;"> *Mechatronics Engineering* </span>
-<img src="/assets/img/Sam_Photo.jpg" style="padding-top:5px; padding-left: 10px" width="180" align="right">
+<img src="/assets/img/Sam_Photo.jpg" style="padding-top:5px; padding-right: 10px" width="180" align="left">
 
 <div style="text-align: justify"> <p> Growing up in Newmarket, Ontario, I first got into technology during a couple grade 11 computer engineering courses. My teacher encouraged self-learning and ambitious projects, and I took off from there. Now, I am happy to say I have been able to apply much of what I've learned in the industry. </p>
 
-<p> I have mainly focused on software development throughout my co-op positions. This includes robotic controls, virtual surgery simulations, and machine learning. In fact, my efforts at the Hospital for Sick Children led to the publishing of an <a href="https://www.ncbi.nlm.nih.gov/pubmed/31897740">article</a> in the Journal of Medical Systems, on the use of convolutional neural networks in medicine. I have also gained experience implementing embedded software algorithms during my time at AdHawk Microsystems. </p>
+<p> I have mainly focused on software development throughout my co-op positions. This includes robotic controls, virtual surgery simulations, and machine learning. In fact, my efforts at the Hospital for Sick Children led to the publishing of an <a href="https://www.ncbi.nlm.nih.gov/pubmed/31897740" target="_blank">article</a> in the Journal of Medical Systems, on the use of convolutional neural networks in medicine. I have also gained experience implementing embedded software algorithms during my time at AdHawk Microsystems. </p>
 
 <p> When I am not busy with engineering-related work, I like to go biking, play guitar, and referee hockey.
 </p> </div>
