@@ -12,16 +12,14 @@ title: About
 </figure>
 
 ### Connor Simmons, *Mechatronics Engineering*
+<img src="/assets/img/Connor_Photo.jpg" style="padding-top: 5px; padding-left: 16px; padding-right: 10px" width="150" align="left">
 
-<img src="/assets/img/Connor_Photo.jpg" style="padding-top: 5px; padding-left: 15px; padding-right: 10px" width="190" align="left">
+<div style="text-align: justify"> Originally from a small town south of Ottawa, I have always been interested in the latest toy or gadget. This interest has only grown from my time studying to be an Engineer, except the toys have gotten bigger and more expensive.
 
-<div style="text-align: justify"> Originally from a small town south of Ottawa, I have always been interested in the latest toy or gadget. This interest has only grown from my time studying to be an Engineer, except the toys have gotten bigger and more expensive. <p/>
-
-<p> Most of my experience has been in product design, in industries from automotive, to manufacturing, to automation. This experience has taken me across Ontario and as far as California, where I had the pleasure to work for Apple on a very exciting new project. These opportunities have provided me with the analytical and hands on skills to continue to improve and apply my skills towards the cutting edge of technology. <p/>
+Most of my experience has been in product design, in industries from automotive, to manufacturing, to automation. This experience has taken me across Ontario and as far as California, where I had the pleasure to work for Apple on a very exciting new project. These opportunities have provided me with the analytical and hands on skills to continue to improve and apply my skills towards the cutting edge of technology.
 
 <p> From a small town kid to engineering products in California, I still love exploring the latest tech, and now I'm the one who gets to design it.
-</div> <p/>
-
+</div>
 
 ### Aditya Matam
 About Aditya Matam
