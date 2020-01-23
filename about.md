@@ -11,9 +11,9 @@ title: About
   <figcaption><i>From left to right: Connor, Adi, Brian, Sam</i></figcaption>
 </figure>
 
-### Connor Simmons, <font size="4" color=AEB6BF> *Mechatronics Engineering*</font>
+### Connor Simmons, *Mechatronics Engineering*
 
-<img src="/assets/img/Connor_Photo.jpg" style="padding-top: 5px; padding-right: 8px" width="190" align="left">
+<img src="/assets/img/Connor_Photo.jpg" style="padding-top: 5px; padding-left: 15px; padding-right: 10px" width="190" align="left">
 
 <div style="text-align: justify"> Originally from a small town south of Ottawa, I have always been interested in the latest toy or gadget. This interest has only grown from my time studying to be an Engineer, except the toys have gotten bigger and more expensive. <p/>
 
