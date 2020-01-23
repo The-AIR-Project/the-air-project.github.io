@@ -28,5 +28,12 @@ About Aditya Matam
 ### Brian Mao
 About Brian Mao
 
-### Sam Raisbeck
-About Sam Raisbeck
+### Sam Raisbeck, <span style="font-size:15px; font-color:#ECF0F1;"> *Mechatronics Engineering* </span>
+<img src="/assets/img/Sam_Photo.jpg" style="padding-top:5px; padding-left: 10px" width="180" align="right">
+
+<div style="text-align: justify"> <p> Growing up in Newmarket, Ontario, I first got into technology during a couple grade 11 computer engineering courses. My teacher encouraged self-learning and ambitious projects, and I took off from there. Now, I am happy to say I have been able to apply much of what I've learned in the industry. </p>
+
+<p> I have mainly focused on software development throughout my co-op positions. This includes robotic controls, virtual surgery simulations, and machine learning. In fact, my efforts at SickKids Hospital led to the publishing of an [article](https://www.ncbi.nlm.nih.gov/pubmed/31897740) in the Journal of Medical Systems on the use of convolutional neural networks in medicine. I have also gained experience implementing embedded software algorithms during my time at AdHawk Microsystems. </p>
+
+<p> When I am not busy with engineering-related work, I like to go biking, play guitar, and referee hockey.
+</p> </div>
