@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Jan 20 - First Update
+title: Jan 20 First Update
 ---
-# Jan 20 - First Update
+# We are Live!
 
 - Our official website is now up and running. This blog is where we will keep the most up to date information regarding the project progress, and communicate important information about upcoming events.
 
