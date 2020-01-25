@@ -34,7 +34,7 @@ About Aditya Matam
 
 <p> I’ve acquired a very diverse skill set from all of my experience which includes programming, simulation, CAD, and design. I’m excited for the endeavours that await in the future.
 </p> </div>
-
+&nbsp;
 
 ### Sam Raisbeck, <span style="font-size:18px; font-color: white;"> *Mechatronics Engineering* </span>
 <img src="/assets/img/Sam_Photo.JPG" style="padding-top:5px; padding-left: 10px; padding-bottom:10px" width="180" align="right">
