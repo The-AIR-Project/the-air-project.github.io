@@ -25,8 +25,8 @@ title: About
 ### Aditya Matam
 About Aditya Matam
 
-### Brian Mao, <span style="font-size:15px; font-color:#ECF0F1;"> *Mechanical Engineering* </span>
-<img src="/assets/img/Brian_Bio_Picture.png" style="padding-top:5px; padding-right: 10px" width="180" align="left">
+### Brian Mao, <span style="font-size:18px; font-color:#ECF0F1;"> *Mechanical Engineering* </span>
+<img src="/assets/img/Brian_Bio_Picture.PNG" style="padding-top:5px; padding-right: 10px" width="180" align="left">
 
 <div style="text-align: justify"> <p> I’m a mechanical engineering student that’s also pursuing a minor in mathematics. The areas within engineering that I enjoy the most tend to be very mathematically intensive such as control systems, finite element methods, and autonomous robotics. </p>
 
@@ -34,6 +34,7 @@ About Aditya Matam
 
 <p> I’ve acquired a very diverse skill set from all of my experience which includes programming, simulation, CAD, and design. I’m excited for the endeavours that await in the future.
 </p> </div>
+
 
 ### Sam Raisbeck, <span style="font-size:18px; font-color: white;"> *Mechatronics Engineering* </span>
 <img src="/assets/img/Sam_Photo.JPG" style="padding-top:5px; padding-left: 10px; padding-bottom:10px" width="180" align="right">
