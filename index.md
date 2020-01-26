@@ -19,11 +19,6 @@ When operating a BVM, pumping consistency is a major concern. If the technique i
   <figcaption><i>Inconsistencies shown as part of this study [2]</i></figcaption>
 </figure>
 
-#Significance
-Brain damage occurs after 3 minutes without oxygen.
-Damage is fatal after 15 minutes.
-Over 73,000 calls in Ontario per year require resuscitation.
-
 
 #### <i>References</i>
 [1] W. P. Weismann, “The Dangers of Bag Valve Devices,” Respiratory and Airway Management, BioSTAR Group, 2011. [Accessed: 1-Oct-2019]
