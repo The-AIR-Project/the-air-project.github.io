@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# What is AIR?
-### <i>Automatic Inhalation Resuscitator</i>
+# What is AIR (Automatic Inhalation Resuscitator)?
+### <i>Breathing AIR Into Patients</i>
 A bag valve mask is a device used by paramedics to provide ventilation for patients who are not breathing adequately. It has been shown there are inconsistent pumping rates between trained medical professionals, and specific volume requirements that are not being met consistently. AIR is a device that is compact, inexpensive, and capable of delivering consistent breaths to a patient through bag valve mask compressions. The objective is to reduce the amount of medical attention and expertise required to operate a bag valve mask.
 
 <p align="center">
@@ -18,6 +18,12 @@ When operating a BVM, pumping consistency is a major concern. If the technique i
   <img src="/assets/img/background_data.JPG" width="280" height="170" />
   <figcaption><i>Inconsistencies shown as part of this study [2]</i></figcaption>
 </figure>
+
+#Significance
+Brain damage occurs after 3 minutes without oxygen.
+Damage is fatal after 15 minutes.
+Over 73,000 calls in Ontario per year require resuscitation.
+
 
 #### <i>References</i>
 [1] W. P. Weismann, “The Dangers of Bag Valve Devices,” Respiratory and Airway Management, BioSTAR Group, 2011. [Accessed: 1-Oct-2019]
