@@ -52,19 +52,20 @@ About Aditya Matam
 &nbsp;
 
 ## <center>Financial Sponsors</center>
-<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:10px; padding-right: 10px" width="400" align="center">](https://uwaterloo.ca/engineering/) Support: $600 </span>
+<span style="font-size:15px; font-color: white;">  [<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 10px" width="400" align="center">](https://uwaterloo.ca/engineering/)
+<div style="text-align: justify"> <p> The Department of Mechanical and Mechatronics Engineering at the University of Waterloo provides each fourth-year team funding based on the number of group members. As a group of four, we receive up to $600 and access to all of the University's lab resources</p> </div> </span>
 
 &nbsp;
 
-<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Baylis_Logotype_black.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="400" align="center">](https://www.baylismedical.com/) Support: $2000 </span>
+<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Baylis_Logotype_black.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="350" align="center">](https://www.baylismedical.com/) Support: $2000 </span>
 
 &nbsp;
 
 ## <center>Industry Consultants</center>
-<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="400" align="center">](https://www.sickkids.ca/) Respiratory Therapy Division </span>
+<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="350" align="center">](https://www.sickkids.ca/) Respiratory Therapy Division </span>
 
 &nbsp;
 
-<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Paramedic_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="400" align="center">](https://www.leedsgrenville.com/en/government/paramedic-service.aspx) Respiratory Therapy Division </span>
+<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Paramedic_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="350" align="center">](https://www.leedsgrenville.com/en/government/paramedic-service.aspx) Respiratory Therapy Division </span>
 
 &nbsp;
