@@ -47,7 +47,8 @@ About Aditya Matam
 </p> </div>
 &nbsp;
 
-# Sponsors and References
+# Sponsors and Consultants
+#### <div style="text-align: center"> A sincere thank you goes out to our sponsors and Industry consultants for this project. Without their support, the work we are doing at AIR would not be possible. </div> <p></p>
 
 ## <center>Financial Sponsors</center>
-[<img src="/assets/img/Waterloo_Logo.png" style="padding-top:5px; padding-right: 10px" width="200" align="center">](https://uwaterloo.ca/)
+<center> [<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:5px; padding-right: 10px" width="400" align="center">](https://uwaterloo.ca/engineering/) <span style="font-size:25px; font-color: white;"> $600 </span></center>
