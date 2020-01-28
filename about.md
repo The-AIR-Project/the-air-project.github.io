@@ -48,7 +48,23 @@ About Aditya Matam
 &nbsp;
 
 # Sponsors and Consultants
-#### <div style="text-align: center"> A sincere thank you goes out to our sponsors and Industry consultants for this project. Without their support, the work we are doing at AIR would not be possible. </div> <p></p>
+#### <center>A sincere thank you goes out to our sponsors and Industry consultants for this project. Without their valuable support, the work we are doing at AIR would not be possible. </center>
+&nbsp;
 
 ## <center>Financial Sponsors</center>
-<center> [<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:5px; padding-right: 10px" width="400" align="center">](https://uwaterloo.ca/engineering/) <span style="font-size:25px; font-color: white;"> $600 </span></center>
+<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:10px; padding-right: 10px" width="400" align="center">](https://uwaterloo.ca/engineering/) Support: $600 </span>
+
+&nbsp;
+
+<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Baylis_Logotype_black.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="400" align="center">](https://www.baylismedical.com/) Support: $2000 </span>
+
+&nbsp;
+
+## <center>Industry Consultants</center>
+<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="400" align="center">](https://www.sickkids.ca/) Respiratory Therapy Division </span>
+
+&nbsp;
+
+<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Paramedic_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="400" align="center">](https://www.leedsgrenville.com/en/government/paramedic-service.aspx) Respiratory Therapy Division </span>
+
+&nbsp;
