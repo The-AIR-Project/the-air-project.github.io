@@ -52,8 +52,8 @@ About Aditya Matam
 &nbsp;
 
 ## <center>Financial Sponsors</center>
-<span style="font-size:15px; font-color: white;">  [<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 10px" width="400" align="center">](https://uwaterloo.ca/engineering/)
-<div style="text-align: justify"> <p> The Department of Mechanical and Mechatronics Engineering at the University of Waterloo provides each fourth-year team funding based on the number of group members. As a group of four, we receive up to $600 and access to all of the University's lab resources</p> </div> </span>
+[<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 10px" width="400" align="center">](https://uwaterloo.ca/engineering/)
+<div style="text-align: justify"> <p> The Department of Mechanical and Mechatronics Engineering at the University of Waterloo provides each fourth-year team funding based on the number of group members. As a group of four, we receive up to $600 and access to all of the University's lab resources</p> </div>
 
 &nbsp;
 
