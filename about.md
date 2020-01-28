@@ -51,11 +51,11 @@ About Aditya Matam
 ### <center>A sincere thank you goes out to our sponsors and Industry consultants for this project. Without their valuable support, the work we are doing at AIR would not be possible. </center>
 &nbsp;
 
-## <center>**Financial Sponsors**</center>
+## <center> **Financial Sponsors** </center>
 
 &nbsp;
 
-<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 60px" width="400" align="left">
+<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 60px" width="325" align="left">
 <div style="text-align: justify"> <p> The Department of Mechanical and Mechatronics Engineering at the University of Waterloo provides each fourth-year team funding based on the number of group members. As a group of four, we receive up to $600 and access to all of the University's lab resources. </p> </div>
 
 &nbsp;
@@ -67,12 +67,14 @@ About Aditya Matam
 
 &nbsp;
 
-## <center>**Industry Consultants**</center>
+## <center> **Industry Consultants** </center>
 
 &nbsp;
 
 <img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-top:10px; padding-left:100px; padding-right: 60px" width="250" align="left">
 <div style="text-align: justify"> Invaluable information for the function and design of AIR was provided by consulting the Respiratory Therapy division at the Hospital for Sick Children. These in-person visits by members of our team allowed us to obtain critical knowledge from some of the worlds leading experts. </div>
+
+&nbsp;
 
 &nbsp;
 
