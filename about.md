@@ -48,24 +48,24 @@ About Aditya Matam
 &nbsp;
 
 # Sponsors and Consultants
-#### <center>A sincere thank you goes out to our sponsors and Industry consultants for this project. Without their valuable support, the work we are doing at AIR would not be possible. </center>
+### <center>A sincere thank you goes out to our sponsors and Industry consultants for this project. Without their valuable support, the work we are doing at AIR would not be possible. </center>
 &nbsp;
 
 ## <center>Financial Sponsors</center>
-[<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 10px" width="400" align="center">](https://uwaterloo.ca/engineering/)
-<div style="text-align: justify"> <p> The Department of Mechanical and Mechatronics Engineering at the University of Waterloo provides each fourth-year team funding based on the number of group members. As a group of four, we receive up to $600 and access to all of the University's lab resources</p> </div>
+[<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:20px; padding-left:40px; padding-right: 10px" width="400" align="left">](https://uwaterloo.ca/engineering/) <div style="font-size:15px; text-align: justify"> The Department of Mechanical and Mechatronics Engineering at the University of Waterloo provides each fourth-year team funding based on the number of group members. As a group of four, we receive up to $600 and access to all of the University's lab resources </div>
+
 
 &nbsp;
 
-<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Baylis_Logotype_black.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="350" align="center">](https://www.baylismedical.com/) Support: $2000 </span>
+[<img src="/assets/img/Baylis_Logotype_black.png" style="padding-top:10px; padding-left:100px; padding-right: 70px" width="350" align="left">](https://www.baylismedical.com/) <div style="font-size:15px; text-align: justify"> A generous financial contribution of $2000 was provided by Baylis Medical after team AIR competed at, and won,  a pitch competition presented by the company. </div>
 
 &nbsp;
 
 ## <center>Industry Consultants</center>
-<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="350" align="center">](https://www.sickkids.ca/) Respiratory Therapy Division </span>
+[<img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 70px" width="350" align="left">](https://www.sickkids.ca/) <div style="font-size:15px; text-align: justify"> Invaluable information for the function and design of AIR was provided by consulting the Respiratory Therapy division at the Hospital for Sick Children. These in-person visits by members of our team allowed us to obtain critical knowledge from some of the worlds leading experts. </div>
 
 &nbsp;
 
-<span style="font-size:25px; font-color: white;">  [<img src="/assets/img/Paramedic_Logo.png" style="padding-top:10px; padding-left:40px; padding-right: 70px" width="350" align="center">](https://www.leedsgrenville.com/en/government/paramedic-service.aspx) Respiratory Therapy Division </span>
+[<img src="/assets/img/Paramedic_Logo.png" style="padding-top:10px; padding-left:100px; padding-right: 70px" width="350" align="left">](https://www.leedsgrenville.com/en/government/paramedic-service.aspx) <div style="font-size:15px; text-align: justify"> The initial concept for AIR was generated after speaking to paramedics about their first-hand experience with various pieces of equipment. The impact this device could have on first responders has been a continuing topic of research, with our team regularly meeting with an active paramedic for vital information and advise. </div>
 
 &nbsp;
