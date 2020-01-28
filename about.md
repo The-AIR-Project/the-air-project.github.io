@@ -52,7 +52,8 @@ About Aditya Matam
 &nbsp;
 
 ## <center>Financial Sponsors</center>
-[<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 60px" width="400" align="left">](https://uwaterloo.ca/engineering/) <div style="text-align: justify"> <p> The Department of Mechanical and Mechatronics Engineering at the University of Waterloo provides each fourth-year team funding based on the number of group members. As a group of four, we receive up to $600 and access to all of the University's lab resources. </p> </div>
+<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 60px" width="400" align="left">
+<div style="text-align: justify"> <p> The Department of Mechanical and Mechatronics Engineering at the University of Waterloo provides each fourth-year team funding based on the number of group members. As a group of four, we receive up to $600 and access to all of the University's lab resources. </p> </div>
 
 &nbsp;
 
@@ -61,13 +62,13 @@ About Aditya Matam
 &nbsp;
 
 ## <center>Industry Consultants</center>
-[<img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 60px" width="300" align="left">](https://www.sickkids.ca/) <div style="font-size:15px; text-align: justify"> Invaluable information for the function and design of AIR was provided by consulting the Respiratory Therapy division at the Hospital for Sick Children. These in-person visits by members of our team allowed us to obtain critical knowledge from some of the worlds leading experts. </div>
+[<img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 60px" width="300" align="left">](https://www.sickkids.ca/) <div style="text-align: justify"> Invaluable information for the function and design of AIR was provided by consulting the Respiratory Therapy division at the Hospital for Sick Children. These in-person visits by members of our team allowed us to obtain critical knowledge from some of the worlds leading experts. </div>
 
 &nbsp;
 
 &nbsp;
 
-[<img src="/assets/img/Paramedic_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 60px" width="300" align="left">](https://www.leedsgrenville.com/en/government/paramedic-service.aspx) <div style="font-size:15px; text-align: justify"> The initial concept for AIR was generated after speaking to paramedics about their first-hand experience with various pieces of equipment. The impact this device could have on first responders has been a continuing topic of research, with our team regularly meeting with an active paramedic for vital information and advise. </div>
+[<img src="/assets/img/Paramedic_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 60px" width="300" align="left">](https://www.leedsgrenville.com/en/government/paramedic-service.aspx) <div style="text-align: justify"> The initial concept for AIR was generated after speaking to paramedics about their first-hand experience with various pieces of equipment. The impact this device could have on first responders has been a continuing topic of research, with our team regularly meeting with an active paramedic for vital information and advise. </div>
 
 &nbsp;
 
