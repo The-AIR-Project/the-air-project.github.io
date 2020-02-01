@@ -59,12 +59,12 @@ About Aditya Matam
 
 &nbsp;
 
-<img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 50px" width="295" align="left">
+<a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/" target="_blank"><img src="/assets/img/Waterloo_ENG_MME_Logo.png" style="padding-top:20px; padding-left:100px; padding-right: 50px" width="295" align="left"></a>
 <div style="text-align: justify"> <p> The Department of Mechanical and Mechatronics Engineering at the University of Waterloo provides each fourth-year team funding based on the number of group members. As a group of four, we receive up to $600 and access to all of the University's lab resources. </p> </div>
 
 &nbsp;
 
-<img src="/assets/img/Baylis_Logotype_black.png" style="padding-left:100px; padding-right: 70px" width="275" align="left">
+<a href="https://www.baylismedical.com/" target="_blank"><img src="/assets/img/Baylis_Logotype_black.png" style="padding-left:100px; padding-right: 70px" width="275" align="left"></a>
 
 
 <div style="text-align: justify"> <p> A generous financial contribution of $2000 was provided by Baylis Medical after team AIR competed at, and won,  a pitch competition presented by the company. </p> </div>
@@ -77,7 +77,7 @@ About Aditya Matam
 
 &nbsp;
 
-<img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-left:100px; padding-right: 70px" width="275" align="left">
+<a href="http://www.sickkids.ca/AboutSickKids/Directory/Listings/R/Respiratory-Therapy.html" target="_blank"><img src="/assets/img/The_Hospital_for_Sick_Children_Logo.png" style="padding-left:100px; padding-right: 70px" width="275" align="left"></a>
 <div style="text-align: justify"> Invaluable information for the function and design of AIR was provided by consulting the Respiratory Therapy division at the Hospital for Sick Children. These in-person visits by members of our team allowed us to obtain critical knowledge from some of the worlds leading experts. </div>
 
 &nbsp;
@@ -85,7 +85,7 @@ About Aditya Matam
 &nbsp;
 
 
-<img src="/assets/img/Paramedic_Logo.png" style="padding-left:100px; padding-right: 70px" width="275" align="left">
+<a href="https://www.leedsgrenville.com/en/government/paramedic-service.aspx" target="_blank"><img src="/assets/img/Paramedic_Logo.png" style="padding-left:100px; padding-right: 70px" width="275" align="left"></a>
 
 &nbsp;
 
