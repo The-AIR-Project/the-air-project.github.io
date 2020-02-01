@@ -41,7 +41,7 @@ About Aditya Matam
 
 <div style="text-align: justify"> <p> Growing up in Newmarket, Ontario, I first got into technology during a couple grade 11 computer engineering courses. My teacher encouraged self-learning and ambitious projects, and I took off from there. Now, I am happy to say I have been able to apply much of what I've learned in the industry. </p>
 
-<p> I have mainly focused on software development throughout my co-op positions. This includes robotic controls, virtual surgery simulations, and machine learning. In fact, my efforts at the Hospital for Sick Children led to the publishing of an [article](https://www.ncbi.nlm.nih.gov/pubmed/31897740) in the Journal of Medical Systems, on the use of convolutional neural networks in medicine. I have also gained experience implementing embedded software algorithms during my time at AdHawk Microsystems. </p>
+<p> I have mainly focused on software development throughout my co-op positions. This includes robotic controls, virtual surgery simulations, and machine learning. In fact, my efforts at the Hospital for Sick Children led to the publishing of an <a href="https://www.ncbi.nlm.nih.gov/pubmed/31897740" target="_blank">article</a> in the Journal of Medical Systems, on the use of convolutional neural networks in medicine. I have also gained experience implementing embedded software algorithms during my time at AdHawk Microsystems. </p>
 
 <p> When I am not busy with engineering-related work, I like to go biking, play guitar, and referee hockey.
 </p> </div>
