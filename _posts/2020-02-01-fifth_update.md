@@ -9,8 +9,8 @@ title: Feb 1 - Motor Characterization
 - The step response of the motor was analyzed (encoder counts vs time), and the parameters were determined to be tau = 0.3519, and Km = 12.0969. These values were used in Simulink to simulate the action of the motor.
 
 <figure align="center">
-  <img src="/assets/img/motor_sim.JPG" width="280" height="170" />
-  <figcaption><i>Inconsistencies shown as part of this study [2]</i></figcaption>
+  <img src="/assets/img/motor_sim.JPG" width="500" />
 </figure>
+&nbsp;
 
 - Now that the motor has been modeled, simulations can be run to determine the optimal controller to use in the code.
