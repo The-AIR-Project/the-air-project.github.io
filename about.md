@@ -35,7 +35,7 @@ title: About
 
 &nbsp;
 
-<a href="https://www.conestogac.on.ca/fulltime/respiratory-therapy" target="_blank"><img src="/assets/img/conestoga.JPG" style="padding-left:100px; padding-right: 70px" width="275" align="left"></a>
+<a href="https://www.conestogac.on.ca/fulltime/respiratory-therapy" target="_blank"><img src="/assets/img/conestoga.JPG" style="padding-left:100px; padding-right: 70px" width="150" align="left"></a>
 
 &nbsp;
 
