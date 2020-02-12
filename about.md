@@ -35,6 +35,16 @@ title: About
 
 &nbsp;
 
+<a href="https://www.conestogac.on.ca/fulltime/respiratory-therapy" target="_blank"><img src="/assets/img/conestoga.JPG" style="padding-left:100px; padding-right: 70px" width="275" align="left"></a>
+
+&nbsp;
+
+<div style="text-align: justify"> Recommended to us by SickKids, the Respiratory Therapy program at Conestoga College has provided us with further insights about the requirements of our design. They have also provided us with testing equipment for volume and pressure measurements which have proved to be very useful (see <a href="https://the-air-project.github.io/2020/02/07/seventh_update.html" target="_blank">here</a>). </div>
+
+&nbsp;
+
+&nbsp;
+
 
 <a href="https://www.leedsgrenville.com/en/government/paramedic-service.aspx" target="_blank"><img src="/assets/img/Paramedic_Logo.png" style="padding-left:100px; padding-right: 70px" width="275" align="left"></a>
 
