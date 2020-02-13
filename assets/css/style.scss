@@ -3,15 +3,18 @@
 
 @import "{{ site.theme }}";
 
-.wrapper {
-  max-width: 1000px;
+header a.button {
+  position: relative;
+  background: none
 }
 
-#header nav{
-    max-width: 1000px;
+.innerheader {
+  position: relative;
+  text-align: right;
+  width: 1000px;
+  margin: 0 auto;
 }
 
-section {
-  max-width: 1000px;
+.inner {
+  width: 1000px;
 }
-

@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-# Sponsors and Consultants
+# <center> Sponsors and Consultants </center>
 ### <center>A sincere thank you goes out to our sponsors and Industry consultants for this project. Without their valuable support, the work we are doing at AIR would not be possible. </center>
 &nbsp;
 
