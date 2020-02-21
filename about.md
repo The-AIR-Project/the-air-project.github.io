@@ -2,6 +2,21 @@
 layout: default
 title: About
 ---
+# Background
+When operating a BVM, pumping consistency is a major concern. If the technique is not performed properly throughout the duration of resuscitation, critical complications can occur, including hyperventilation [1]. It has been shown that many health care professionals lack either the skill or concentration to perform BVM resuscitation appropriately. In a study of 174 trained medical professionals, 88% of participants provided too much pressure, 73.8% delivered excessive volumes of air, and 49% performed the technique at too slow of a rate, which can cause hypoventilation [2]. Respiratory therapists at The Hospital for Sick Children revealed these inconsistencies are even more significant in high-stress situations, such as emergency paramedic dispatches.
+
+<figure align="center">
+  <img src="/assets/img/background_data.JPG" width="280" height="170" />
+  <figcaption><i>Inconsistencies shown as part of this study [2]</i></figcaption>
+</figure>
+
+<font size="-5">[1] W. P. Weismann, “The Dangers of Bag Valve Devices,” Respiratory and Airway Management, BioSTAR Group, 2011. [Accessed: 1-Oct-2019]
+<br>
+[2] M. A. Bassani, F. M. Filho, M. R. D. C. Coppo, and S. T. M. Marba, “An Evaluation of Peak Inspiratory Pressure, Tidal Volume, and Ventilatory Frequency During Ventilation With a Neonatal Self-Inflating Bag Resuscitator,” Respiratory Care, vol. 57, no. 4, pp. 525–530, Jan. 2012.
+</font>
+
+<hr>
+
 # <center> Sponsors and Consultants </center>
 ### <center>A sincere thank you goes out to our sponsors and Industry consultants for this project. Without their valuable support, the work we are doing at AIR would not be possible. </center>
 &nbsp;
@@ -46,7 +61,7 @@ title: About
 &nbsp;
 
 
-<a href="https://www.leedsgrenville.com/en/government/paramedic-service.aspx" target="_blank"><img src="/assets/img/Paramedic_Logo.png" style="padding-left:100px; padding-right: 70px" width="275" align="left"></a>
+<a href="https://www.leedsgrenville.com/en/government/paramedic-service.aspx" target="_blank"><img src="/assets/img/Paramedic_Logo.png" style="padding-left:106px; padding-right: 76px" width="255" align="left"></a>
 
 &nbsp;
 
