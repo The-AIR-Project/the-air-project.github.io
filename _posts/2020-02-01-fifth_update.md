@@ -12,7 +12,6 @@ title: Feb 1 - Motor Characterization
   <img src="/assets/img/motor_sim.JPG" width="500" />
 </figure>
 
-
 - Now that the motor has been modeled, simulations can be run to determine an optimal controller to use within the code.
 
 - A servo motor has also been ordered for testing. The servo has a maximum torque of about 21.5 kg-cm, or 1.96 Nm. This is slightly higher than the torque of the DC motor
