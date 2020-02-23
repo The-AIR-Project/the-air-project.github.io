@@ -19,8 +19,8 @@ title: Feb 7 - Conestoga Visit - 1
 - Also, the pressure delivered at both the airway and the lungs was quite low. Currently, the motor is being driven at 10.8 V but it's full power is 12 V. We would need to acquire a full 12 V motor driver to fix this, or hopefully, the new servo should be sufficiently strong and fast.
 
 <figure align="center">
-  <img src="/assets/img/Volume_Test_1.JPG" width="450" />
-  <img src="/assets/img/Pressure_Test_1.JPG" width="450" />
+  <img src="/assets/img/Volume_Test_1.JPG" width="400" />
+  <img src="/assets/img/Pressure_Test_1.JPG" width="400" />
 </figure>
 
 - These observations will be used to modify the design moving forward. Our goal is to finalize the design next week and produce a full prototype for more extensive testing. We have already confirmed with the Respiratory Therapy Lab that we could return to perform more testing as required.
