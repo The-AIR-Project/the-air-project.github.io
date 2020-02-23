@@ -31,8 +31,7 @@ When operating a BVM, pumping consistency is a major concern. If the technique i
 &nbsp;
 
 <a href="https://www.baylismedical.com/" target="_blank"><img src="/assets/img/Baylis_Logotype_black.png" style="padding-left:100px; padding-right: 70px" width="275" align="left"></a>
-
-
+&nbsp;
 <div style="text-align: justify"> <p> A generous financial contribution of $2000 was provided by Baylis Medical after team AIR competed at, and won,  a pitch competition presented by the company. </p> </div>
 
 &nbsp;
@@ -47,7 +46,6 @@ When operating a BVM, pumping consistency is a major concern. If the technique i
 <div style="text-align: justify"> Invaluable information for the function and design of AIR was provided by consulting the Respiratory Therapy division at the Hospital for Sick Children. These in-person visits by members of our team allowed us to obtain critical knowledge from some of the worlds leading experts. </div>
 
 &nbsp;
-
 &nbsp;
 
 <a href="https://www.conestogac.on.ca/fulltime/respiratory-therapy" target="_blank"><img src="/assets/img/conestoga.JPG" style="padding-left:162px; padding-right: 133px" width="150" align="left"></a>
