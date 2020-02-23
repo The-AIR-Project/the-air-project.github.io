@@ -8,6 +8,6 @@ title: Jan 21 - Baylis Medical Award
 
 - This funding will go towards the development and testing phase of our project, allowing us to work with higher quality testing equipment and additional prototyping measures that would have exceeded our original budget. Our sincerest thank-you has been extended to Baylis Medical through the Donor Relations Office at the University.
 
-- We have been invited by Dr. Bryan Tripp, the Director of Biomedical Engineering, to come speak to a third-year BME class regarding our project, including how we approached the Baylis competition, and general advice for the fourth-year design project.
+- We have also been invited by Dr. Bryan Tripp, the Director of Biomedical Engineering, to come speak to a third-year BME class regarding our project, including how we approached the Baylis competition, and general advice for the fourth-year design project.
 
 - This talk will be held on Friday, Jan 24 at 12:30 in E5 6004
