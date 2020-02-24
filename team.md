@@ -11,6 +11,8 @@ title: Team
   <figcaption><i>From left to right: Connor, Adi, Brian, Sam</i></figcaption>
 </figure>
 
+<hr class="section">
+
 ### Connor Simmons, <span style="font-size:18px; font-color: white;"> *Mechatronics Engineering* </span>
 <img src="/assets/img/Connor_Photo.jpg" style="padding-top:5px; padding-right: 10px" width="180" align="left">
 

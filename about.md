@@ -15,7 +15,7 @@ When operating a BVM, pumping consistency is a major concern. If the technique i
 [2] M. A. Bassani, F. M. Filho, M. R. D. C. Coppo, and S. T. M. Marba, “An Evaluation of Peak Inspiratory Pressure, Tidal Volume, and Ventilatory Frequency During Ventilation With a Neonatal Self-Inflating Bag Resuscitator,” Respiratory Care, vol. 57, no. 4, pp. 525–530, Jan. 2012.
 </font>
 
-<hr>
+<hr class="section">
 
 # <center> Sponsors and Consultants </center>
 ### <center>A sincere thank you goes out to our sponsors and Industry consultants for this project. Without their valuable support, the work we are doing at AIR would not be possible. </center>

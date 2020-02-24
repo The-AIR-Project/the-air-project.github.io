@@ -18,3 +18,23 @@ header a.button {
 .inner {
   width: 1000px;
 }
+
+hr.section {
+    border: 0;
+    height: 3px;
+    background-image: linear-gradient(to right, rgba(51, 123, 205, 0),
+                                      rgba(51, 123, 205, 0.7), rgba(51, 123, 205, 0));
+}
+
+hr.blogpost {
+    border: 0;
+    height: 3px;
+    margin-bottom: 35px;
+    margin-top: 35px;
+    background-image: linear-gradient(to right, rgba(51, 123, 205, 0.7),
+                                      rgba(51, 123, 205, 0.3), rgba(51, 123, 205, 0));
+}
+
+h1.blue {
+    color: #337bcd;
+}
