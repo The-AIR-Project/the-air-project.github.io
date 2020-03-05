@@ -6,7 +6,7 @@ title: About
 When operating a BVM, pumping consistency is a major concern. If the technique is not performed properly throughout the duration of resuscitation, critical complications can occur, including hyperventilation [1]. It has been shown that many health care professionals lack either the skill or concentration to perform BVM resuscitation appropriately. In a study of 174 trained medical professionals, 88% of participants provided too much pressure, 73.8% delivered excessive volumes of air, and 49% performed the technique at too slow of a rate, which can cause hypoventilation [2]. Respiratory therapists at The Hospital for Sick Children revealed these inconsistencies are even more significant in high-stress situations, such as emergency paramedic dispatches.
 
 <figure align="center">
-  <img src="/assets/img/background_data.JPG" width="280" height="170" />
+  <img src="/assets/img/background_data.JPG" width="320" height="210" />
   <figcaption><i>Inconsistencies shown as part of this study [2]</i></figcaption>
 </figure>
 
