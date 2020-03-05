@@ -18,7 +18,7 @@ title: Team
 
 <div style="text-align: justify"> <p> I’m a mechanical engineering student that’s also pursuing a minor in mathematics. The areas within engineering that I enjoy the most tend to be very mathematically intensive such as control systems, finite element methods, and autonomous robotics. </p>
 
-<p> I’ve worked under a large variety industries throughout my co-op terms including software development, engineering simulation, factory automation, and metal tooling. I was even fortunate enough to work at Apple in California during my last co-op term, and visit China on a business trip. </p>
+<p> I’ve worked under a large variety of industries throughout my co-op terms including software development, engineering simulation, factory automation, and metal tooling. I was even fortunate enough to work at Apple in California during my last co-op term, and visit China on a business trip. </p>
 
 <p> I’ve acquired a very diverse skill set from all of my experience which includes programming, simulation, CAD, and design. I’m excited for the endeavours that await in the future.
 </p> </div>
