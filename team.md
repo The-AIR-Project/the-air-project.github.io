@@ -7,8 +7,8 @@ title: Team
 </div> <p></p>
 
 <figure align="center">
-  <img src="/assets/img/team.jpg" width="750">
-  <figcaption><i>From left to right: Connor, Adi, Brian, Sam</i></figcaption>
+  <img src="/assets/img/team.png" width="750">
+  <figcaption><i>The AIR device ventilating a test lung at Conestoga College<br>From left to right: Brian, Connor, Adi, Sam</i></figcaption>
 </figure>
 
 <hr class="section">
