@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<h1 align="center"><img src="/assets/img/air_logo.png" width="300" align="center"><br>Automatic Inhalation Resuscitator</h1>
+<h1 align="center"><img src="/assets/img/air_logo.png" width="400" align="center"><br>Automatic Inhalation Resuscitator</h1>
 <h2 align="center"><i>Breathing AIR Into Patients</i></h2>
 
 <hr class="section">
@@ -18,23 +18,23 @@ A bag valve mask is a device used by paramedics to provide ventilation for patie
 
 # Benefits
 
-<h3 align="left"><img src="/assets/img/Lungs.JPG" style="padding-left:100px" width="100"> Consistent Breath Volume </h2>
-<h3 align="center"><img src="/assets/img/Gear.JPG" style="padding-left:100px" width="100"> Adjustable Settings </h2>
-<h3 align="center"><img src="/assets/img/Checkmark.JPG" style="padding-left:100px" width="100"> Easy to Use </h2>
+<h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:200px" width="100"> Consistent Breath Volume </h2>
+<h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:200px" width="100"> Adjustable Settings </h2>
+<h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:200px" width="100"> Easy to Use </h2>
 
 <hr class="section">
 
 # Applications
+
 At AIR, we are focused on creating a meaningful solution to a problem which could affect you or someone you know at any moment. First responders work tirelessly to ventilate a patient and keep them breathing until they get to a hospital. Often, these patients could have other serious injuries which need attention. A device such as the Automatic Inhalation Resuscitator could free up an additional set of hands for a paramedic to focus on and treat these injuries to provide a better care to their patient.
 
 In underdeveloped countries, family members are often trained to perform manual ventilation using bag valve mask compression. As full size modern ventilators are not easily accessible in these locations, one may be forced to perform BVM resuscitation for hours at a time. Inconsistencies in breath parameters become even more significant when being operated by someone will less experience, for prolonged time. Our device could be used as a low cost alternative to a traditional ventilator, and provide much more consistent recuscitation.
 
-<h3 align="center"><img src="/assets/img/General_Paramedic_Logo.JPG" width="100" align="center"><img src="/assets/img/Red_Cross.JPG" style="padding-left: 100 px" width="100" align="center"> </h2>
+<img src="/assets/img/General_Paramedic_Logo.png" width="100" align="center">
+<img src="/assets/img/Red_Cross.png" style="padding-left: 100 px" width="100" align="center">
 
+&nbsp;
 
-For more information, see <a href="/about.html">here</a>.
-
-
-
+For more information, see our <a href="/about.html">About page</a>.
 
 <h2 align="center"><i>Breathing AIR Into Patients</i></h2>
