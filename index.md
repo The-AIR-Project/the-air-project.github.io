@@ -18,9 +18,9 @@ A bag valve mask is a device used by paramedics to provide ventilation for patie
 
 # Benefits
 
-<h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:300px; padding-right:10px" width="100"> Consistent Breath Volume </h2>
-<h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:300px; padding-right:10px" width="100"> Adjustable Settings </h2>
-<h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:300px; padding-right:10px" width="100"> Easy to Use </h2>
+<h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:400px; padding-right:20px" width="100"> Consistent Breath Volume </h2>
+<h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:400px; padding-right:20px" width="100"> Adjustable Settings </h2>
+<h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:400px; padding-right:20px" width="100"> Easy to Use </h2>
 
 <hr class="section">
 
@@ -30,12 +30,13 @@ At AIR, we are focused on creating a meaningful solution to a problem which coul
 
 In underdeveloped countries, family members are often trained to perform manual ventilation using bag valve mask compression. As full size modern ventilators are not easily accessible in these locations, one may be forced to perform BVM resuscitation for hours at a time. Inconsistencies in breath parameters become even more significant when being operated by someone will less experience, for prolonged time. Our device could be used as a low cost alternative to a traditional ventilator, and provide much more consistent recuscitation.
 
-<img src="/assets/img/General_Paramedic_Logo.png" style="padding-left: 250 px" width="100" align="center">
-<img src="/assets/img/Red_Cross.png" style="padding-left: 100 px" width="100" align="center">
+<img src="/assets/img/General_Paramedic_Logo.png" style="padding-left: 250 px" width="100" align="left"> <img src="/assets/img/Red_Cross.png" style="padding-left: 100 px" width="100" align="left">
 
 &nbsp;
 
 For more information, see our <a href="/about.html">About page</a>.
+
+---
 
 <h2 align="center"><i>Breathing AIR Into Patients</i></h2>
 

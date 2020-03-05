@@ -13,8 +13,19 @@ title: Team
 
 <hr class="section">
 
+### Brian Mao, <span style="font-size:18px; font-color:#ECF0F1;"> *Mechanical Engineering* </span>
+<img src="/assets/img/Brian_Bio_Picture.PNG" style="padding-top:5px; padding-right: 10px" width="180" align="left">
+
+<div style="text-align: justify"> <p> I’m a mechanical engineering student that’s also pursuing a minor in mathematics. The areas within engineering that I enjoy the most tend to be very mathematically intensive such as control systems, finite element methods, and autonomous robotics. </p>
+
+<p> I’ve worked under a large variety industries throughout my co-op terms including software development, engineering simulation, factory automation, and metal tooling. I was even fortunate enough to work at Apple in California during my last co-op term, and visit China on a business trip. </p>
+
+<p> I’ve acquired a very diverse skill set from all of my experience which includes programming, simulation, CAD, and design. I’m excited for the endeavours that await in the future.
+</p> </div>
+&nbsp;
+
 ### Connor Simmons, <span style="font-size:18px; font-color: white;"> *Mechatronics Engineering* </span>
-<img src="/assets/img/Connor_Photo.jpg" style="padding-top:5px; padding-right: 10px" width="180" align="left">
+<img src="/assets/img/Connor_Photo.jpg" style="padding-top:5px; padding-left: 10px" width="180" align="right">
 
 <div style="text-align: justify"> <p> Originally from a small town south of Ottawa, I have always been interested in the latest toy or gadget. This interest has only grown from my time studying to be an Engineer, except the toys have gotten bigger and more expensive. </p>
 
@@ -25,7 +36,7 @@ title: Team
 &nbsp;
 
 ### Aditya Matam, <span style="font-size:18px; font-color:#ECF0F1;"> *Mechanical Engineering* </span>
-<img src="/assets/img/Adi_Photo.jpg" style="padding-top:5px; padding-left: 10px" width="160" align="right">
+<img src="/assets/img/Adi_Photo.jpg" style="padding-top:5px; padding-right: 10px" width="160" align="left">
 <div style="text-align: justify"> <p> I was introduced to programming in grade 10 while I was participating in extracurricular student clubs. Since then, my exposure to new technologies in my studies and co-op terms has only heightened this interest. </p>
 
 <p> In my various co-op terms, I have gained industry experience in a diverse area of software engineering fields, including robotics and embedded software. Most recently, I've had the chance to work on autonomous vehicles at Lyft, developing algorithms for their mapping teams. My work on the University of Waterloo's Robotics Team has also given me hands on experience in mechanical design and basic manufacturing.</p>
