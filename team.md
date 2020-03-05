@@ -45,17 +45,6 @@ title: Team
 </div>
 &nbsp;
 
-### Brian Mao, <span style="font-size:18px; font-color:#ECF0F1;"> *Mechanical Engineering* </span>
-<img src="/assets/img/Brian_Bio_Picture.PNG" style="padding-top:5px; padding-right: 10px" width="180" align="left">
-
-<div style="text-align: justify"> <p> I’m a mechanical engineering student that’s also pursuing a minor in mathematics. The areas within engineering that I enjoy the most tend to be very mathematically intensive such as control systems, finite element methods, and autonomous robotics. </p>
-
-<p> I’ve worked under a large variety industries throughout my co-op terms including software development, engineering simulation, factory automation, and metal tooling. I was even fortunate enough to work at Apple in California during my last co-op term, and visit China on a business trip. </p>
-
-<p> I’ve acquired a very diverse skill set from all of my experience which includes programming, simulation, CAD, and design. I’m excited for the endeavours that await in the future.
-</p> </div>
-&nbsp;
-
 ### Sam Raisbeck, <span style="font-size:18px; font-color: white;"> *Mechatronics Engineering* </span>
 <img src="/assets/img/Sam_Photo.JPG" style="padding-top:5px; padding-left: 10px; padding-bottom:10px" width="180" align="right">
 
