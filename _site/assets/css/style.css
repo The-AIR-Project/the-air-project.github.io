@@ -964,13 +964,23 @@ footer a:hover {
     content: none; } }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+.image {
+  align: left;
+  height: 150px;
+  width: 150px; }
+
 header a.button {
+  top: 60px;
   position: relative;
   background: none; }
 
+header {
+  padding-top: 0px;
+  padding-bottom: 0px; }
+
 .innerheader {
   position: relative;
-  text-align: right;
+  height: 150px;
   width: 1000px;
   margin: 0 auto; }
 

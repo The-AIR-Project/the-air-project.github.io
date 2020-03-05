@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<h1 align="center"><img src="/assets/img/air_logo.png" width="150" align="center"><br>Automatic Inhalation Resuscitator</h1>
+<h1 align="center"><img src="/assets/img/air_logo.png" width="250" align="center"><br>Automatic Inhalation Resuscitator</h1>
 <h2 align="center"><i>Breathing AIR Into Patients</i></h2>
 
 <hr class="section">
