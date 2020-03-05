@@ -35,8 +35,9 @@ title: Team
 </p> </div>
 &nbsp;
 
-### Aditya Matam, <span style="font-size:18px; font-color:#ECF0F1;"> *Mechanical Engineering* </span>
+### Aditya Matam, <span style="font-size:18px; font-color:#ECF0F1;"> *Mechatronics Engineering* </span>
 <img src="/assets/img/Adi_Photo.jpg" style="padding-top:5px; padding-right: 10px" width="160" align="left">
+
 <div style="text-align: justify"> <p> I was introduced to programming in grade 10 while I was participating in extracurricular student clubs. Since then, my exposure to new technologies in my studies and co-op terms has only heightened this interest. </p>
 
 <p> In my various co-op terms, I have gained industry experience in a diverse area of software engineering fields, including robotics and embedded software. Most recently, I've had the chance to work on autonomous vehicles at Lyft, developing algorithms for their mapping teams. My work on the University of Waterloo's Robotics Team has also given me hands on experience in mechanical design and basic manufacturing.</p>
