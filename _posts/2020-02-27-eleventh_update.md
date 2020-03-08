@@ -2,7 +2,7 @@
 layout: default
 title: Feb 27 - Conestoga Visit - 2
 ---
-# Feb 24 - Conestoga Visit 2 - A Time for Reflection
+# Feb 27 - Conestoga Visit 2 - A Time for Reflection
 
 - Unfortunately, today's visit to Conestoga did not go as anticipated. The compression arms
 were printed just this morning, so there was no time to test the compression mechanism before
