@@ -17,9 +17,9 @@ A bag valve mask is a device used by paramedics to provide ventilation for patie
 <hr class="section">
 
 # Benefits
-<h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:350px; padding-right:20px" width="100"> <span style="padding-bottom:20px"> Consistent Breath Volume </span> </h2>
-<h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:350px; padding-right:20px" width="100"> <span style="padding-bottom:20px"> Adjustable Settings </span> </h2>
-<h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:350px; padding-right:20px" width="100"> <span style="padding-bottom:20px"> Easy to Use </span> </h2>
+<h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:350px; padding-right:20px" width="100"> <a style="position:relative; bottom:40px"> Consistent Breath Volume </a> </h2>
+<h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:350px; padding-right:20px" width="100"> <a style="position:relative; bottom:40px"> Adjustable Settings </a> </h2>
+<h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:350px; padding-right:20px" width="100"> <a style="position:relative; bottom:35px"> Easy to Use </a> </h2>
 
 <hr class="section">
 
@@ -38,7 +38,4 @@ In underdeveloped countries, family members are often trained to perform manual 
 For more information, see our <a href="/about.html">About page</a>.
 
 ---
-
-<h2 align="center"><i>Breathing AIR Into Patients</i></h2>
-
 &nbsp;
