@@ -37,5 +37,4 @@ In underdeveloped countries, family members are often trained to perform manual 
 
 For more information, see our <a href="/about.html">About page</a>.
 
----
 &nbsp;
