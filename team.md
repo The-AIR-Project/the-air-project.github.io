@@ -14,7 +14,7 @@ title: Team
 <hr class="section">
 
 <!-- Brian -->
-<h2 align="left"> Brian Mao, <i/> Mechanical Engineering</i> </h2>
+<h2 align="left"> Brian Mao, <i> Mechanical Engineering</i> </h2>
 
 <img src="/assets/img/Brian_Bio_Picture.PNG" style="padding-top:5px; padding-right: 10px" width="180" align="left">
 
@@ -27,7 +27,7 @@ title: Team
 &nbsp;
 
 <!-- Connor -->
-<h2 align="right"> Connor Simmons, <i/> Mechatronics Engineering</i> </h2>
+<h2 align="right"> Connor Simmons, <i> Mechatronics Engineering</i> </h2>
 
 <img src="/assets/img/Connor_Photo.jpg" style="padding-top:5px; padding-left: 10px" width="180" align="right">
 
@@ -40,7 +40,7 @@ title: Team
 &nbsp;
 
 <!-- Adi -->
-<h2 align="left"> Aditya Matam, <i/> Mechatronics Engineering</i> </h2>
+<h2 align="left"> Aditya Matam, <i> Mechatronics Engineering</i> </h2>
 
 <img src="/assets/img/Adi_Photo.jpg" style="padding-top:5px; padding-right: 10px" width="160" align="left">
 
@@ -53,7 +53,7 @@ title: Team
 &nbsp;
 
 <!-- Sam -->
-<h2 align="right"> Sam Raisbeck, <i/> Mechatronics Engineering</i> </h2>
+<h2 align="right"> Sam Raisbeck, <i> Mechatronics Engineering</i> </h2>
 
 <img src="/assets/img/Sam_Photo.JPG" style="padding-top:5px; padding-left: 10px; padding-bottom:10px" width="180" align="right">
 

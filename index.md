@@ -17,9 +17,9 @@ A bag valve mask is a device used by paramedics to provide ventilation for patie
 <hr class="section">
 
 # Benefits
-<h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:350px; padding-right:20px; padding-top:50px" width="100"> Consistent Breath Volume </h2>
-<h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:350px; padding-right:20px; padding-top:50px" width="100"> Adjustable Settings </h2>
-<h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:350px; padding-right:20px; padding-top:50px" width="100"> Easy to Use </h2>
+<h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:350px; padding-right:20px; padding-top:100px" width="100"> Consistent Breath Volume </h2>
+<h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:350px; padding-right:20px; padding-top:100px" width="100"> Adjustable Settings </h2>
+<h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:350px; padding-right:20px; padding-top:100px" width="100"> Easy to Use </h2>
 
 <hr class="section">
 
@@ -30,7 +30,7 @@ At AIR, we are focused on creating a meaningful solution to a problem which coul
 In underdeveloped countries, family members are often trained to perform manual ventilation using bag valve mask compression. As full size modern ventilators are not easily accessible in these locations, one may be forced to perform BVM resuscitation for hours at a time. Inconsistencies in breath parameters become even more significant when being operated by someone will less experience, for prolonged time. Our device could be used as a low cost alternative to a traditional ventilator, and provide much more consistent recuscitation.
 
 <p align="center">
-<img src="/assets/img/Health_Logos.png" width="250">
+<img src="/assets/img/Health_Logos.png" width="300">
 </p>
 
 &nbsp;
