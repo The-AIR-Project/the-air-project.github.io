@@ -13,7 +13,9 @@ title: Team
 
 <hr class="section">
 
-### Brian Mao, <span style="font-size:18px; font-color:#ECF0F1;"> *Mechanical Engineering* </span>
+<!-- Brian -->
+<h2 align="left"> Brian Mao, <i/> Mechanical Engineering</i> </h2>
+
 <img src="/assets/img/Brian_Bio_Picture.PNG" style="padding-top:5px; padding-right: 10px" width="180" align="left">
 
 <div style="text-align: justify"> <p> I’m a mechanical engineering student that’s also pursuing a minor in mathematics. The areas within engineering that I enjoy the most tend to be very mathematically intensive such as control systems, finite element methods, and autonomous robotics. </p>
@@ -24,7 +26,9 @@ title: Team
 </p> </div>
 &nbsp;
 
-### Connor Simmons, <span style="font-size:18px; font-color: white;"> *Mechatronics Engineering* </span>
+<!-- Connor -->
+<h2 align="right"> Connor Simmons, <i/> Mechatronics Engineering</i> </h2>
+
 <img src="/assets/img/Connor_Photo.jpg" style="padding-top:5px; padding-left: 10px" width="180" align="right">
 
 <div style="text-align: justify"> <p> Originally from a small town south of Ottawa, I have always been interested in the latest toy or gadget. This interest has only grown from my time studying to be an Engineer, except the toys have gotten bigger and more expensive. </p>
@@ -35,7 +39,9 @@ title: Team
 </p> </div>
 &nbsp;
 
-### Aditya Matam, <span style="font-size:18px; font-color:#ECF0F1;"> *Mechatronics Engineering* </span>
+<!-- Adi -->
+<h2 align="left"> Aditya Matam, <i/> Mechatronics Engineering</i> </h2>
+
 <img src="/assets/img/Adi_Photo.jpg" style="padding-top:5px; padding-right: 10px" width="160" align="left">
 
 <div style="text-align: justify"> <p> I was introduced to programming in grade 10 while I was participating in extracurricular student clubs. Since then, my exposure to new technologies in my studies and co-op terms has only heightened this interest. </p>
@@ -46,7 +52,9 @@ title: Team
 </div>
 &nbsp;
 
-### Sam Raisbeck, <span style="font-size:18px; font-color: white;"> *Mechatronics Engineering* </span>
+<!-- Sam -->
+<h2 align="right"> Sam Raisbeck, <i/> Mechatronics Engineering</i> </h2>
+
 <img src="/assets/img/Sam_Photo.JPG" style="padding-top:5px; padding-left: 10px; padding-bottom:10px" width="180" align="right">
 
 <div style="text-align: justify"> <p> Growing up in Newmarket, Ontario, I first got into technology during a couple grade 11 computer engineering courses. My teacher encouraged self-learning and ambitious projects, and I took off from there. Now, I am happy to say I have been able to apply much of what I've learned in the industry. </p>
