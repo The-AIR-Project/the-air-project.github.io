@@ -17,9 +17,9 @@ A bag valve mask is a device used by paramedics to provide ventilation for patie
 <hr class="section">
 
 # Benefits
-<h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:350px; padding-right:20px; padding-top:100px" width="100"> Consistent Breath Volume </h2>
-<h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:350px; padding-right:20px; padding-top:100px" width="100"> Adjustable Settings </h2>
-<h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:350px; padding-right:20px; padding-top:100px" width="100"> Easy to Use </h2>
+<h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:350px; padding-right:20px" width="100"> <span style="padding-bottom:20px"> Consistent Breath Volume </span> </h2>
+<h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:350px; padding-right:20px" width="100"> <span style="padding-bottom:20px"> Adjustable Settings </span> </h2>
+<h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:350px; padding-right:20px" width="100"> <span style="padding-bottom:20px"> Easy to Use </span> </h2>
 
 <hr class="section">
 
