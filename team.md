@@ -2,7 +2,7 @@
 layout: default
 title: Team
 ---
-# The Team
+# Our Story 
 <div style="text-align: justify"> We are four Waterloo Engineering students who care about creating truly meaningful solutions to real world problems. Together, we have worked for local startups, advanced research labs at SickKids Hospital, and some of the largest companies in California. With our wide range of academic and professional experience, each of us brings our own expertise and skills to the project. This allows us to approach problems from unique viewpoints, and create the best quality solutions.
 </div> <p></p>
 
@@ -13,6 +13,7 @@ title: Team
 
 <hr class="section">
 
+# Meet The Team
 <!-- Brian -->
 <h2 align="left"> Brian Mao, <i> Mechanical Engineering</i> </h2>
 
