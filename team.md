@@ -25,6 +25,7 @@ title: Team
 <p> I’ve acquired a very diverse skill set from all of my experience which includes programming, simulation, CAD, and design. I’m excited for the endeavours that await in the future.
 </p> </div>
 &nbsp;
+
 ---
 
 <!-- Connor -->
@@ -39,6 +40,7 @@ title: Team
 <p> At heart, I'm still a small town kid who loves snowboarding, hockey, and videogames. I still enjoy exploring the latest tech, and now I'm the one who gets to design it.
 </p> </div>
 &nbsp;
+
 ---
 
 <!-- Adi -->
@@ -53,6 +55,7 @@ title: Team
 <p>Outside of school work, my interests include playing video games, watching movies, and working on independent coding projects.</p>
 </div>
 &nbsp;
+
 ---
 
 <!-- Sam -->
