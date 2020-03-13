@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Mar 12 - Day Before Symposium - 3
+title: Mar 12 - Day Before Symposium
 ---
-# Mar 12 - Day Before Symposium - 3
+# Mar 12 - Day Before Symposium
 
 - Finishing touches to the design were completed throughout the week leading up to the symposium scheduled for Mar 13. The final design for the poster that will be on display during the symposium is displayed below:
 
 <figure align="center">
-  <img src="/assets/img/Poster_Final.jpg" width="450" />
+  <img src="/assets/img/Poster_Final.jpg" width="800" />
 </figure>
 
 - This string could be easily replaced with fishing wire if required, which is convenient within developing countries.
