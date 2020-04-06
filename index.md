@@ -16,12 +16,23 @@ A bag valve mask is a device used by paramedics to provide ventilation for patie
 
 <hr class="section">
 
+# Files
+
+This is an open source project. Files for CAD models, electrical schematics, code, and assembly instructions are available on
+<a href="https://github.com/The-AIR-Project/airware"
+target="_blank">AirWare</a>.
+
+We invite others to construct prototypes based on the existing files, or to make further improvements to the design.
+Requires a 3D printer and laser cutter for construction.
+
+
 # Benefits
 <h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:350px; padding-right:20px" width="100"> <a style="position:relative; bottom:40px"> Consistent Breath Volume </a> </h2>
 <h2 align="left"><img src="/assets/img/Gear.png" style="padding-left:350px; padding-right:20px" width="100"> <a style="position:relative; bottom:40px"> Adjustable Settings </a> </h2>
 <h2 align="left"><img src="/assets/img/Checkmark.png" style="padding-left:350px; padding-right:20px" width="100"> <a style="position:relative; bottom:35px"> Easy to Use </a> </h2>
 
 <hr class="section">
+
 
 # Applications
 
