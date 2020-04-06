@@ -25,6 +25,7 @@ target="_blank">AirWare</a>.
 We invite others to construct prototypes based on the existing files, or to make further improvements to the design.
 Requires a 3D printer and laser cutter for construction.
 
+<hr class="section">
 
 # Benefits
 <h2 align="left"><img src="/assets/img/Lungs.png" style="padding-left:350px; padding-right:20px" width="100"> <a style="position:relative; bottom:40px"> Consistent Breath Volume </a> </h2>
