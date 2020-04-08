@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mar 12 - University of Waterloo Feature Article
+title: Apr 8 - University of Waterloo Feature Article
 ---
 # April 8 - University of Waterloo Feature Article
 
