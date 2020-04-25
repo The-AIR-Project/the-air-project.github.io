@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-# Background
+# <center> Background </center>
 
 <figure align="center">
   <img src="/assets/img/poster_final.png" width="800" />
@@ -19,6 +19,15 @@ When operating a BVM, pumping consistency is a major concern. If the technique i
 <br>
 [2] M. A. Bassani, F. M. Filho, M. R. D. C. Coppo, and S. T. M. Marba, “An Evaluation of Peak Inspiratory Pressure, Tidal Volume, and Ventilatory Frequency During Ventilation With a Neonatal Self-Inflating Bag Resuscitator,” Respiratory Care, vol. 57, no. 4, pp. 525–530, Jan. 2012.
 </font>
+
+<hr class="section">
+
+# <center> AIR in the News </center>
+
+In mid-April, AIR had the opportunity to talk about its progress, the need for additional resources, and plan for the future in an interview with CTV Kitchener. Check out the clip below:
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ibWi_oXtrwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <hr class="section">
 
